@@ -18,8 +18,17 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Likheet/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Likheet/Leetcode-problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Sorting
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Likheet/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+## Design
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Likheet/Leetcode-problems/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Ordered Set
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Likheet/Leetcode-problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->

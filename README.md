@@ -57,4 +57,20 @@ A collection of LeetCode questions solved by me
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Likheet/Leetcode-problems/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [2087-confirmation-rate](https://github.com/Likheet/Leetcode-problems/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Likheet/Leetcode-problems/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Likheet/Leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Likheet/Leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Likheet/Leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Likheet/Leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->

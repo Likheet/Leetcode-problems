@@ -47,5 +47,6 @@ A collection of LeetCode questions solved by me
 ## Database
 |  |
 | ------- |
+| [0620-not-boring-movies](https://github.com/Likheet/Leetcode-problems/tree/master/0620-not-boring-movies) |
 | [2087-confirmation-rate](https://github.com/Likheet/Leetcode-problems/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->

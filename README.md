@@ -7,6 +7,7 @@ A collection of LeetCode questions solved by me
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Likheet/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Likheet/Leetcode-problems/tree/master/0354-russian-doll-envelopes) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Likheet/Leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions solved by me
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Likheet/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Likheet/Leetcode-problems/tree/master/0354-russian-doll-envelopes) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Likheet/Leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Design
 |  |
 | ------- |
@@ -38,4 +40,8 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Likheet/Leetcode-problems/tree/master/0354-russian-doll-envelopes) |
+## Greedy
+|  |
+| ------- |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Likheet/Leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 <!---LeetCode Topics End-->

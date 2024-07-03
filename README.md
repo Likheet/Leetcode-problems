@@ -48,6 +48,7 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/Likheet/Leetcode-problems/tree/master/0620-not-boring-movies) |
+| [1182-game-play-analysis-iv](https://github.com/Likheet/Leetcode-problems/tree/master/1182-game-play-analysis-iv) |
 | [1292-immediate-food-delivery-ii](https://github.com/Likheet/Leetcode-problems/tree/master/1292-immediate-food-delivery-ii) |
 | [1317-monthly-transactions-i](https://github.com/Likheet/Leetcode-problems/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Likheet/Leetcode-problems/tree/master/1338-queries-quality-and-percentage) |

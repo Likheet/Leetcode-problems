@@ -49,5 +49,6 @@ A collection of LeetCode questions solved by me
 | ------- |
 | [0620-not-boring-movies](https://github.com/Likheet/Leetcode-problems/tree/master/0620-not-boring-movies) |
 | [1390-average-selling-price](https://github.com/Likheet/Leetcode-problems/tree/master/1390-average-selling-price) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/Likheet/Leetcode-problems/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [2087-confirmation-rate](https://github.com/Likheet/Leetcode-problems/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->

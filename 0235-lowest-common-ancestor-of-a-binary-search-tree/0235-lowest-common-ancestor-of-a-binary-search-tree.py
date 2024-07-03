@@ -14,3 +14,6 @@ class Solution:
                 root = root.right
             else:
                 return root
+
+
+# 100 PROBLEMS BABBYYY!!

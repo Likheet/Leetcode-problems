@@ -73,4 +73,12 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Likheet/Leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Likheet/Leetcode-problems/tree/master/2299-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Likheet/Leetcode-problems/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->

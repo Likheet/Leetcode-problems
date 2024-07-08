@@ -48,6 +48,7 @@ A collection of LeetCode questions solved by me
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/Likheet/Leetcode-problems/tree/master/0180-consecutive-numbers) |
 | [0596-classes-more-than-5-students](https://github.com/Likheet/Leetcode-problems/tree/master/0596-classes-more-than-5-students) |
 | [0610-triangle-judgement](https://github.com/Likheet/Leetcode-problems/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Likheet/Leetcode-problems/tree/master/0619-biggest-single-number) |

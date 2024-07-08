@@ -48,6 +48,7 @@ A collection of LeetCode questions solved by me
 ## Database
 |  |
 | ------- |
+| [0596-classes-more-than-5-students](https://github.com/Likheet/Leetcode-problems/tree/master/0596-classes-more-than-5-students) |
 | [0620-not-boring-movies](https://github.com/Likheet/Leetcode-problems/tree/master/0620-not-boring-movies) |
 | [1155-product-sales-analysis-iii](https://github.com/Likheet/Leetcode-problems/tree/master/1155-product-sales-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/Likheet/Leetcode-problems/tree/master/1182-game-play-analysis-iv) |

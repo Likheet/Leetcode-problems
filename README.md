@@ -64,6 +64,7 @@ A collection of LeetCode questions solved by me
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Likheet/Leetcode-problems/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1338-queries-quality-and-percentage](https://github.com/Likheet/Leetcode-problems/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Likheet/Leetcode-problems/tree/master/1390-average-selling-price) |
+| [1452-restaurant-growth](https://github.com/Likheet/Leetcode-problems/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/Likheet/Leetcode-problems/tree/master/1480-movie-rating) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Likheet/Leetcode-problems/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1877-find-followers-count](https://github.com/Likheet/Leetcode-problems/tree/master/1877-find-followers-count) |

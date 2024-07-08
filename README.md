@@ -8,6 +8,7 @@ A collection of LeetCode questions solved by me
 | [0350-intersection-of-two-arrays-ii](https://github.com/Likheet/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Likheet/Leetcode-problems/tree/master/0354-russian-doll-envelopes) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Likheet/Leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Likheet/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,11 +83,21 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Likheet/Leetcode-problems/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Likheet/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Likheet/Leetcode-problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Likheet/Leetcode-problems/tree/master/2645-pass-the-pillow) |
 ## Math
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Likheet/Leetcode-problems/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Likheet/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Likheet/Leetcode-problems/tree/master/2645-pass-the-pillow) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Likheet/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Likheet/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->

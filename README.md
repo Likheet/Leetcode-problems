@@ -69,6 +69,7 @@ A collection of LeetCode questions solved by me
 | [1390-average-selling-price](https://github.com/Likheet/Leetcode-problems/tree/master/1390-average-selling-price) |
 | [1452-restaurant-growth](https://github.com/Likheet/Leetcode-problems/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/Likheet/Leetcode-problems/tree/master/1480-movie-rating) |
+| [1670-patients-with-a-condition](https://github.com/Likheet/Leetcode-problems/tree/master/1670-patients-with-a-condition) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Likheet/Leetcode-problems/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1811-fix-names-in-a-table](https://github.com/Likheet/Leetcode-problems/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/Likheet/Leetcode-problems/tree/master/1877-find-followers-count) |

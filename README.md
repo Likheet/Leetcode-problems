@@ -8,6 +8,7 @@ A collection of LeetCode questions solved by me
 | [0350-intersection-of-two-arrays-ii](https://github.com/Likheet/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Likheet/Leetcode-problems/tree/master/0354-russian-doll-envelopes) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Likheet/Leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/Likheet/Leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Likheet/Leetcode-problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Likheet/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
@@ -127,4 +128,12 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Likheet/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+## String
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/Likheet/Leetcode-problems/tree/master/1720-crawler-log-folder) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/Likheet/Leetcode-problems/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->

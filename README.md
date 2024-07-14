@@ -50,6 +50,7 @@ A collection of LeetCode questions solved by me
 ## Greedy
 |  |
 | ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Likheet/Leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Likheet/Leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Likheet/Leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Database
@@ -139,6 +140,7 @@ A collection of LeetCode questions solved by me
 | ------- |
 | [0726-number-of-atoms](https://github.com/Likheet/Leetcode-problems/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Likheet/Leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Likheet/Leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1720-crawler-log-folder](https://github.com/Likheet/Leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Likheet/Leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Stack
@@ -149,4 +151,8 @@ A collection of LeetCode questions solved by me
 | [1720-crawler-log-folder](https://github.com/Likheet/Leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Likheet/Leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Likheet/Leetcode-problems/tree/master/2846-robot-collisions) |
+## Counting
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Likheet/Leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->

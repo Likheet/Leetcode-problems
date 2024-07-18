@@ -101,6 +101,7 @@ A collection of LeetCode questions solved by me
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Likheet/Leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Likheet/Leetcode-problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Likheet/Leetcode-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Likheet/Leetcode-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Likheet/Leetcode-problems/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
@@ -108,6 +109,7 @@ A collection of LeetCode questions solved by me
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Likheet/Leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Likheet/Leetcode-problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Likheet/Leetcode-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Likheet/Leetcode-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Search Tree
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions solved by me
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Likheet/Leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Likheet/Leetcode-problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/Likheet/Leetcode-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Likheet/Leetcode-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Likheet/Leetcode-problems/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Linked List

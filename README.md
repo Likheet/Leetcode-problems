@@ -10,6 +10,7 @@ A collection of LeetCode questions solved by me
 | [1207-delete-nodes-and-return-forest](https://github.com/Likheet/Leetcode-problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Likheet/Leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Likheet/Leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Likheet/Leetcode-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Likheet/Leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/Likheet/Leetcode-problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Likheet/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions solved by me
 | [1341-split-a-string-in-balanced-strings](https://github.com/Likheet/Leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Likheet/Leetcode-problems/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Likheet/Leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Likheet/Leetcode-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Likheet/Leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Database
 |  |
@@ -179,4 +181,5 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Likheet/Leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Likheet/Leetcode-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 <!---LeetCode Topics End-->

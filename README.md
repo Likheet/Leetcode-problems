@@ -198,6 +198,7 @@ A collection of LeetCode questions solved by me
 ## Graph
 |  |
 | ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Likheet/Leetcode-problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Likheet/Leetcode-problems/tree/master/2472-build-a-matrix-with-conditions) |
 ## Topological Sort
 |  |
@@ -227,4 +228,12 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Likheet/Leetcode-problems/tree/master/0948-sort-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Likheet/Leetcode-problems/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/Likheet/Leetcode-problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 <!---LeetCode Topics End-->

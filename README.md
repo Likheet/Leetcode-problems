@@ -180,6 +180,7 @@ A collection of LeetCode questions solved by me
 | [0013-roman-to-integer](https://github.com/Likheet/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Likheet/Leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0726-number-of-atoms](https://github.com/Likheet/Leetcode-problems/tree/master/0726-number-of-atoms) |
+| [0742-to-lower-case](https://github.com/Likheet/Leetcode-problems/tree/master/0742-to-lower-case) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Likheet/Leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Likheet/Leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Likheet/Leetcode-problems/tree/master/1369-minimum-swaps-to-make-strings-equal) |

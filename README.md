@@ -13,6 +13,7 @@ A collection of LeetCode questions solved by me
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Likheet/Leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Likheet/Leetcode-problems/tree/master/1511-count-number-of-teams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Likheet/Leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Likheet/Leetcode-problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Likheet/Leetcode-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/Likheet/Leetcode-problems/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Likheet/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions solved by me
 | [0948-sort-an-array](https://github.com/Likheet/Leetcode-problems/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Likheet/Leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Likheet/Leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Likheet/Leetcode-problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Likheet/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/Likheet/Leetcode-problems/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Likheet/Leetcode-problems/tree/master/2846-robot-collisions) |

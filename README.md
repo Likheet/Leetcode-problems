@@ -66,6 +66,7 @@ A collection of LeetCode questions solved by me
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Likheet/Leetcode-problems/tree/master/0354-russian-doll-envelopes) |
 | [1511-count-number-of-teams](https://github.com/Likheet/Leetcode-problems/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Likheet/Leetcode-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Greedy
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions solved by me
 | [1341-split-a-string-in-balanced-strings](https://github.com/Likheet/Leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Likheet/Leetcode-problems/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1720-crawler-log-folder](https://github.com/Likheet/Leetcode-problems/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Likheet/Leetcode-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Likheet/Leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Likheet/Leetcode-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/Likheet/Leetcode-problems/tree/master/2502-sort-the-people) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions solved by me
 | [0726-number-of-atoms](https://github.com/Likheet/Leetcode-problems/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Likheet/Leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Likheet/Leetcode-problems/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Likheet/Leetcode-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Likheet/Leetcode-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Likheet/Leetcode-problems/tree/master/2846-robot-collisions) |
 ## Counting

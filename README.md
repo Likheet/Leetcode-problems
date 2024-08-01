@@ -5,6 +5,7 @@ A collection of LeetCode questions solved by me
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Likheet/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Likheet/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Likheet/Leetcode-problems/tree/master/0354-russian-doll-envelopes) |
 | [0932-monotonic-array](https://github.com/Likheet/Leetcode-problems/tree/master/0932-monotonic-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Likheet/Leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/Likheet/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Likheet/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Likheet/Leetcode-problems/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Likheet/Leetcode-problems/tree/master/1207-delete-nodes-and-return-forest) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions solved by me
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Likheet/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Likheet/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Likheet/Leetcode-problems/tree/master/0354-russian-doll-envelopes) |
 | [0726-number-of-atoms](https://github.com/Likheet/Leetcode-problems/tree/master/0726-number-of-atoms) |

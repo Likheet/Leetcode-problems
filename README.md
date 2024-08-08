@@ -8,6 +8,7 @@ A collection of LeetCode questions solved by me
 | [0217-contains-duplicate](https://github.com/Likheet/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Likheet/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Likheet/Leetcode-problems/tree/master/0354-russian-doll-envelopes) |
+| [0921-spiral-matrix-iii](https://github.com/Likheet/Leetcode-problems/tree/master/0921-spiral-matrix-iii) |
 | [0932-monotonic-array](https://github.com/Likheet/Leetcode-problems/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/Likheet/Leetcode-problems/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/Likheet/Leetcode-problems/tree/master/1196-filling-bookcase-shelves) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions solved by me
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/Likheet/Leetcode-problems/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/Likheet/Leetcode-problems/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Likheet/Leetcode-problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Likheet/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions solved by me
 ## Matrix
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/Likheet/Leetcode-problems/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Likheet/Leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Likheet/Leetcode-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Likheet/Leetcode-problems/tree/master/2472-build-a-matrix-with-conditions) |

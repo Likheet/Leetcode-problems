@@ -12,6 +12,7 @@ A collection of LeetCode questions solved by me
 | [0921-spiral-matrix-iii](https://github.com/Likheet/Leetcode-problems/tree/master/0921-spiral-matrix-iii) |
 | [0932-monotonic-array](https://github.com/Likheet/Leetcode-problems/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/Likheet/Leetcode-problems/tree/master/0948-sort-an-array) |
+| [0999-regions-cut-by-slashes](https://github.com/Likheet/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/Likheet/Leetcode-problems/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Likheet/Leetcode-problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Likheet/Leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions solved by me
 | [0350-intersection-of-two-arrays-ii](https://github.com/Likheet/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Likheet/Leetcode-problems/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/Likheet/Leetcode-problems/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/Likheet/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Likheet/Leetcode-problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Likheet/Leetcode-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Likheet/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Likheet/Leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0999-regions-cut-by-slashes](https://github.com/Likheet/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Likheet/Leetcode-problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Likheet/Leetcode-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Likheet/Leetcode-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions solved by me
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/Likheet/Leetcode-problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Likheet/Leetcode-problems/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/Likheet/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Likheet/Leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Likheet/Leetcode-problems/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Likheet/Leetcode-problems/tree/master/2472-build-a-matrix-with-conditions) |
@@ -278,6 +282,7 @@ A collection of LeetCode questions solved by me
 ## Breadth-First Search
 |  |
 | ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Likheet/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Likheet/Leetcode-problems/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Shortest Path
 |  |
@@ -291,4 +296,8 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Likheet/Leetcode-problems/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Union Find
+|  |
+| ------- |
+| [0999-regions-cut-by-slashes](https://github.com/Likheet/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
 <!---LeetCode Topics End-->

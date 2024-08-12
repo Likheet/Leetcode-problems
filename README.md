@@ -83,6 +83,7 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Likheet/Leetcode-problems/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Likheet/Leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Ordered Set
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Likheet/Leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Likheet/Leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Likheet/Leetcode-problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Likheet/Leetcode-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Likheet/Leetcode-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -161,10 +163,12 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Likheet/Leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Likheet/Leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Likheet/Leetcode-problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Likheet/Leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Likheet/Leetcode-problems/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Likheet/Leetcode-problems/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Likheet/Leetcode-problems/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -262,6 +266,7 @@ A collection of LeetCode questions solved by me
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Likheet/Leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Likheet/Leetcode-problems/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -300,4 +305,8 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/Likheet/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Likheet/Leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->

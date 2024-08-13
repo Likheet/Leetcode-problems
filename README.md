@@ -5,6 +5,7 @@ A collection of LeetCode questions solved by me
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Likheet/Leetcode-problems/tree/master/0040-combination-sum-ii) |
 | [0217-contains-duplicate](https://github.com/Likheet/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Likheet/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Likheet/Leetcode-problems/tree/master/0354-russian-doll-envelopes) |
@@ -309,4 +310,8 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Likheet/Leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Likheet/Leetcode-problems/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->

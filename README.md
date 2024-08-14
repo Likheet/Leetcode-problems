@@ -12,6 +12,7 @@ A collection of LeetCode questions solved by me
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Likheet/Leetcode-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0720-longest-word-in-dictionary](https://github.com/Likheet/Leetcode-problems/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Likheet/Leetcode-problems/tree/master/0721-accounts-merge) |
+| [0722-remove-comments](https://github.com/Likheet/Leetcode-problems/tree/master/0722-remove-comments) |
 | [0870-magic-squares-in-grid](https://github.com/Likheet/Leetcode-problems/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Likheet/Leetcode-problems/tree/master/0921-spiral-matrix-iii) |
 | [0932-monotonic-array](https://github.com/Likheet/Leetcode-problems/tree/master/0932-monotonic-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions solved by me
 | [0273-integer-to-english-words](https://github.com/Likheet/Leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Likheet/Leetcode-problems/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Likheet/Leetcode-problems/tree/master/0721-accounts-merge) |
+| [0722-remove-comments](https://github.com/Likheet/Leetcode-problems/tree/master/0722-remove-comments) |
 | [0726-number-of-atoms](https://github.com/Likheet/Leetcode-problems/tree/master/0726-number-of-atoms) |
 | [0742-to-lower-case](https://github.com/Likheet/Leetcode-problems/tree/master/0742-to-lower-case) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Likheet/Leetcode-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |

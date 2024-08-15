@@ -14,6 +14,7 @@ A collection of LeetCode questions solved by me
 | [0721-accounts-merge](https://github.com/Likheet/Leetcode-problems/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/Likheet/Leetcode-problems/tree/master/0722-remove-comments) |
 | [0870-magic-squares-in-grid](https://github.com/Likheet/Leetcode-problems/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/Likheet/Leetcode-problems/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/Likheet/Leetcode-problems/tree/master/0921-spiral-matrix-iii) |
 | [0932-monotonic-array](https://github.com/Likheet/Leetcode-problems/tree/master/0932-monotonic-array) |
 | [0948-sort-an-array](https://github.com/Likheet/Leetcode-problems/tree/master/0948-sort-an-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions solved by me
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/Likheet/Leetcode-problems/tree/master/0890-lemonade-change) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Likheet/Leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Likheet/Leetcode-problems/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Likheet/Leetcode-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |

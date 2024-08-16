@@ -9,6 +9,7 @@ A collection of LeetCode questions solved by me
 | [0217-contains-duplicate](https://github.com/Likheet/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Likheet/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Likheet/Leetcode-problems/tree/master/0354-russian-doll-envelopes) |
+| [0624-maximum-distance-in-arrays](https://github.com/Likheet/Leetcode-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Likheet/Leetcode-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0720-longest-word-in-dictionary](https://github.com/Likheet/Leetcode-problems/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Likheet/Leetcode-problems/tree/master/0721-accounts-merge) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions solved by me
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/Likheet/Leetcode-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Likheet/Leetcode-problems/tree/master/0890-lemonade-change) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Likheet/Leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Likheet/Leetcode-problems/tree/master/1369-minimum-swaps-to-make-strings-equal) |

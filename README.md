@@ -48,6 +48,7 @@ A collection of LeetCode questions solved by me
 | ------- |
 | [0013-roman-to-integer](https://github.com/Likheet/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Likheet/Leetcode-problems/tree/master/0217-contains-duplicate) |
+| [0264-ugly-number-ii](https://github.com/Likheet/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Likheet/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0720-longest-word-in-dictionary](https://github.com/Likheet/Leetcode-problems/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Likheet/Leetcode-problems/tree/master/0721-accounts-merge) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions solved by me
 ## Dynamic Programming
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Likheet/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Likheet/Leetcode-problems/tree/master/0354-russian-doll-envelopes) |
 | [1196-filling-bookcase-shelves](https://github.com/Likheet/Leetcode-problems/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Likheet/Leetcode-problems/tree/master/1511-count-number-of-teams) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Likheet/Leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0264-ugly-number-ii](https://github.com/Likheet/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Likheet/Leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/Likheet/Leetcode-problems/tree/master/0870-magic-squares-in-grid) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Likheet/Leetcode-problems/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions solved by me
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Likheet/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Likheet/Leetcode-problems/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Likheet/Leetcode-problems/tree/master/0948-sort-an-array) |
 ## Merge Sort

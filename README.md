@@ -111,6 +111,7 @@ A collection of LeetCode questions solved by me
 | ------- |
 | [0264-ugly-number-ii](https://github.com/Likheet/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Likheet/Leetcode-problems/tree/master/0354-russian-doll-envelopes) |
+| [0650-2-keys-keyboard](https://github.com/Likheet/Leetcode-problems/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/Likheet/Leetcode-problems/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Likheet/Leetcode-problems/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/Likheet/Leetcode-problems/tree/master/1511-count-number-of-teams) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions solved by me
 | [0013-roman-to-integer](https://github.com/Likheet/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0264-ugly-number-ii](https://github.com/Likheet/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Likheet/Leetcode-problems/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/Likheet/Leetcode-problems/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Likheet/Leetcode-problems/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Likheet/Leetcode-problems/tree/master/1240-stone-game-ii) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Likheet/Leetcode-problems/tree/master/1369-minimum-swaps-to-make-strings-equal) |

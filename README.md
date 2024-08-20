@@ -22,6 +22,7 @@ A collection of LeetCode questions solved by me
 | [0999-regions-cut-by-slashes](https://github.com/Likheet/Leetcode-problems/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/Likheet/Leetcode-problems/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Likheet/Leetcode-problems/tree/master/1207-delete-nodes-and-return-forest) |
+| [1240-stone-game-ii](https://github.com/Likheet/Leetcode-problems/tree/master/1240-stone-game-ii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Likheet/Leetcode-problems/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Likheet/Leetcode-problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Likheet/Leetcode-problems/tree/master/1511-count-number-of-teams) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions solved by me
 | [0264-ugly-number-ii](https://github.com/Likheet/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Likheet/Leetcode-problems/tree/master/0354-russian-doll-envelopes) |
 | [1196-filling-bookcase-shelves](https://github.com/Likheet/Leetcode-problems/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/Likheet/Leetcode-problems/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/Likheet/Leetcode-problems/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Likheet/Leetcode-problems/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Likheet/Leetcode-problems/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions solved by me
 | [0264-ugly-number-ii](https://github.com/Likheet/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Likheet/Leetcode-problems/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/Likheet/Leetcode-problems/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/Likheet/Leetcode-problems/tree/master/1240-stone-game-ii) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/Likheet/Leetcode-problems/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1642-water-bottles](https://github.com/Likheet/Leetcode-problems/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Likheet/Leetcode-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -353,4 +356,12 @@ A collection of LeetCode questions solved by me
 |  |
 | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/Likheet/Leetcode-problems/tree/master/0720-longest-word-in-dictionary) |
+## Prefix Sum
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Likheet/Leetcode-problems/tree/master/1240-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Likheet/Leetcode-problems/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->

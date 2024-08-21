@@ -112,6 +112,7 @@ A collection of LeetCode questions solved by me
 | [0264-ugly-number-ii](https://github.com/Likheet/Leetcode-problems/tree/master/0264-ugly-number-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Likheet/Leetcode-problems/tree/master/0354-russian-doll-envelopes) |
 | [0650-2-keys-keyboard](https://github.com/Likheet/Leetcode-problems/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/Likheet/Leetcode-problems/tree/master/0664-strange-printer) |
 | [1196-filling-bookcase-shelves](https://github.com/Likheet/Leetcode-problems/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Likheet/Leetcode-problems/tree/master/1240-stone-game-ii) |
 | [1511-count-number-of-teams](https://github.com/Likheet/Leetcode-problems/tree/master/1511-count-number-of-teams) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions solved by me
 | [0013-roman-to-integer](https://github.com/Likheet/Leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Likheet/Leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0273-integer-to-english-words](https://github.com/Likheet/Leetcode-problems/tree/master/0273-integer-to-english-words) |
+| [0664-strange-printer](https://github.com/Likheet/Leetcode-problems/tree/master/0664-strange-printer) |
 | [0720-longest-word-in-dictionary](https://github.com/Likheet/Leetcode-problems/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/Likheet/Leetcode-problems/tree/master/0721-accounts-merge) |
 | [0722-remove-comments](https://github.com/Likheet/Leetcode-problems/tree/master/0722-remove-comments) |

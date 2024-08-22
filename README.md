@@ -9,6 +9,7 @@ A collection of LeetCode questions solved by me
 | [0217-contains-duplicate](https://github.com/Likheet/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Likheet/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Likheet/Leetcode-problems/tree/master/0354-russian-doll-envelopes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Likheet/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/Likheet/Leetcode-problems/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Likheet/Leetcode-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0720-longest-word-in-dictionary](https://github.com/Likheet/Leetcode-problems/tree/master/0720-longest-word-in-dictionary) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions solved by me
 | [0350-intersection-of-two-arrays-ii](https://github.com/Likheet/Leetcode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Likheet/Leetcode-problems/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0354-russian-doll-envelopes](https://github.com/Likheet/Leetcode-problems/tree/master/0354-russian-doll-envelopes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Likheet/Leetcode-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Likheet/Leetcode-problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Likheet/Leetcode-problems/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
